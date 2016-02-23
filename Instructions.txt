@@ -1,3 +1,0 @@
-To run either of the large graphs, give the flag -Xss12m to increase java stack size.
- The output from both the colorable and not colorable graphs were more than 100 entries long, 
-and are in the Graph sub directory under the names largegraph1output.txt and largegraph2output.txt.

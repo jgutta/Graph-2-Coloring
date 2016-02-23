@@ -1,0 +1,1 @@
+This project takes in  text files where the first line is the number of graph nodes, and each following line is an edge between two nodes. To run either of the large graphs, give the flag -Xss12m to increase java stack size.
